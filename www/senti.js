@@ -26,7 +26,7 @@ getSentiment();
 						console.log(data.rows[i].id);
 				
 						var name=data.rows[i].id;
-						var test=data.rows[i].key;
+						var test=data.rows[i].key; // replace with your text
 						if(test=="")
 							test="neutral";
 								$.ajax({
