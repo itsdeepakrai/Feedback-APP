@@ -1,0 +1,41 @@
+body{
+	background:white;
+}
+
+a{
+	color:blue;
+	text-decoration: none;
+	text-underline:none;
+	-webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+     user-select: none;
+     -webkit-touch-callout: none;
+}
+
+a:visited {color:none;}  /* visited link */
+a:hover {color:none;}  /* mouse over link */
+a:active {color:none;}
+
+img {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+     user-select: none;
+     -webkit-touch-callout: none;
+    }
+    
+    div {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+     user-select: none;
+     -webkit-touch-callout: none;
+    }
+     label {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+     user-select: none;
+     -webkit-touch-callout: none;
+    }
